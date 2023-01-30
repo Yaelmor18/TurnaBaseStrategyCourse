@@ -59,6 +59,12 @@
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\PolygonPrototype\Shaders\Prototype_Glass_Global.shader" />
+    <None Include="Assets\PolygonPrototype\Shaders\Prototype_Object.shader" />
+    <None Include="Assets\PolygonPrototype\Shaders\Prototype_Global.shader" />
+    <None Include="Assets\PolygonPrototype\Shaders\Prototype_Glass_Object.shader" />
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="UnityEngine">
       <HintPath>D:\Unity\Unity Hub\2022.1.8f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
