@@ -57,6 +57,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Scripts\Unit.cs" />
+    <Compile Include="Assets\Scripts\MouseWorld.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\PolygonPrototype\Shaders\Prototype_Glass_Global.shader" />
